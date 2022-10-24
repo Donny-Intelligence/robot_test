@@ -1,0 +1,10 @@
+stop,Hint to answer,"Say: 'STOP' to leave current session",stop
+detect,Hint to help,"Say: Hey Adam, where is the detection point",detect
+ready,If you ready, "Say: 'I am ready' or let's go to start",ready
+yes,Hint to answer,"Say: 'YES' or 'Of course' to confirm",yes
+no,Hint to answer,"Say: 'NO' to decline",no
+1,Hint for chat,"Say: Hey Adam, what time is it now?",time
+1,Hint for chat,"Say: Hey Adam, can you introduce yourself?",intro
+2,Hint for control,"Say: Hey Adam, can you dance?",dance
+2,Hint for control,"Say: Hey Adam, doing push up",push
+4,To play games,"Say: Hey Adam, I want to play game",game
